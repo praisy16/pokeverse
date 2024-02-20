@@ -1,4 +1,4 @@
-The ultimate Pokémon exploration app that brings the magical world of Pokémon into the reality of a user's surroundings! Leveraging the powerful and versatile PokeAPI, Pokeverse offers an immersive experience for Pokémon enthusiasts to discover, learn, and interact with Pokémon in an entirely new way. The application uses tech stacks including geolocation API, SCSS, CSS, and React.js with real-world GPS tracking to transform your local environment into a vibrant Pokémon habitat.
+The ultimate Pokémon exploration app that brings the magical world of Pokémon into the reality of a user's surroundings! Leveraging the powerful and versatile PokeAPI, Pokeverse offers an immersive experience for Pokémon enthusiasts to discover, learn, and interact with Pokémon in an entirely new way. The application uses tech stacks including Geolocation API, SCSS, CSS, and React.js with real-world GPS tracking to transform your local environment into a vibrant Pokémon habitat.
 
 
 Features:
@@ -9,3 +9,7 @@ Features:
 - Responsive Design: Crafted with SCSS and CSS, our app boasts a responsive and aesthetically pleasing design that adapts seamlessly across devices. Whether you’re on a phone, tablet, or desktop, Pokeverse delivers a stunning and engaging user experience.
 
 - Interactive Pokémon World: React.js powers the dynamic and interactive elements of Pokeverse, ensuring a smooth and fast interface. Experience real-time updates as you move, with Pokémon appearing and disappearing from your map, simulating the thrill of Pokémon exploration.
+
+
+
+![cc8a02fc927429e5824df79640d6aa2a](https://github.com/praisy16/pokeverse/assets/112771153/5cd49cf9-034b-4855-8aa0-d81f679d2fb8)
