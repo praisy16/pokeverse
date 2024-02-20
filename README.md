@@ -13,9 +13,10 @@ Features:
 
 
 
-{Pokemon informaiton layed out based on user's demand:}
+{Pokemon informaiton layed out based on user's demand:}                                                    {Pokemon sighting's list based on user's vicinity:}
 
-![cc8a02fc927429e5824df79640d6aa2a](https://github.com/praisy16/pokeverse/assets/112771153/5cd49cf9-034b-4855-8aa0-d81f679d2fb8)
+
+![cc8a02fc927429e5824df79640d6aa2a](https://github.com/praisy16/pokeverse/assets/112771153/5cd49cf9-034b-4855-8aa0-d81f679d2fb8)      ![50e75ad74428df59b6748b18f70ad61d](https://github.com/praisy16/pokeverse/assets/112771153/33cb78a9-3ada-4c8a-ab47-09676319fa15)
 
 
 
